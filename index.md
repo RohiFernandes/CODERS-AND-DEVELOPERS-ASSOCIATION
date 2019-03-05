@@ -1,36 +1,20 @@
 ## Welcome to CNDA's Temporary Web Page
 
-We are sure you must have clicked on the url after reading our Broadcast
+We are sure you must have decided to visit the url after reading our Broadcast.
 
-### Markdown
+We assure you that there are much more fun and surprising elements yet to come.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](
+**Our Upcoming Event would be disclosed very soon so stay tuned ** 
+ ![logo.png](
         CODERS-AND-DEVELOPERS-ASSOCIATION/logo.png
       )
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RohiFernandes/CODERS-AND-DEVELOPERS-ASSOCIATION/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Contact
 
