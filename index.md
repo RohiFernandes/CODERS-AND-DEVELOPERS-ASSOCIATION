@@ -1,20 +1,10 @@
 ## Welcome to CNDA's Temporary Web Page
 
-We are sure you must have decided to visit the url after reading our Broadcast.
+**We are sure you must have decided to visit the url after reading our Broadcast.**
 
-We assure you that there are much more fun and surprising elements yet to come.
+**We assure you that there are much more fun and surprising elements yet to come.**
 
-```
-
-
-**Our Upcoming Event would be disclosed very soon so stay tuned ** 
- ![logo.png](
-        CODERS-AND-DEVELOPERS-ASSOCIATION/logo.png
-      )
-```
-
-
-
+```Our Upcoming Event would be disclosed very soon so stay tuned... ```
 
 ### Contact
 
